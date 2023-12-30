@@ -1,0 +1,5 @@
+G:\K\Ky 1_Nam 4\C#\lab\formdangnhap_demo\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+G:\K\Ky 1_Nam 4\C#\lab\formdangnhap_demo\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\K\Ky 1_Nam 4\C#\lab\formdangnhap_demo\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+G:\K\Ky 1_Nam 4\C#\lab\formdangnhap_demo\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+G:\K\Ky 1_Nam 4\C#\lab\formdangnhap_demo\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache

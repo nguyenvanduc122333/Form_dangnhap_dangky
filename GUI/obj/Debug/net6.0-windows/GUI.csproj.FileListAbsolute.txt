@@ -1,0 +1,7 @@
+G:\K\Ky 1_Nam 4\C#\lab\formdangnhap_demo\GUI\obj\Debug\net6.0-windows\GUI.csproj.AssemblyReference.cache
+G:\K\Ky 1_Nam 4\C#\lab\formdangnhap_demo\GUI\obj\Debug\net6.0-windows\GUI.Form1.resources
+G:\K\Ky 1_Nam 4\C#\lab\formdangnhap_demo\GUI\obj\Debug\net6.0-windows\GUI.csproj.GenerateResource.cache
+G:\K\Ky 1_Nam 4\C#\lab\formdangnhap_demo\GUI\obj\Debug\net6.0-windows\GUI.GeneratedMSBuildEditorConfig.editorconfig
+G:\K\Ky 1_Nam 4\C#\lab\formdangnhap_demo\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfoInputs.cache
+G:\K\Ky 1_Nam 4\C#\lab\formdangnhap_demo\GUI\obj\Debug\net6.0-windows\GUI.AssemblyInfo.cs
+G:\K\Ky 1_Nam 4\C#\lab\formdangnhap_demo\GUI\obj\Debug\net6.0-windows\GUI.csproj.CoreCompileInputs.cache
